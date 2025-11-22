@@ -109,7 +109,7 @@ export function Dashboard({ onBack, onReconfigure, onLogout }: DashboardProps) {
               </TabsTrigger>
               <TabsTrigger value="tracker" className="text-xs">Deal Tracker</TabsTrigger>
               <TabsTrigger value="outreach" className="text-xs">Outreach</TabsTrigger>
-              <TabsTrigger value="inflow" className="text-xs">inFlow</TabsTrigger>
+              <TabsTrigger value="inflow" className="text-xs">In Bound</TabsTrigger>
               <TabsTrigger value="intelligence" className="text-xs">Intelligence</TabsTrigger>
             </TabsList>
           </Tabs>
