@@ -42,7 +42,7 @@ const SIDEBAR_ITEMS = [
   { key: 'tracker', label: 'Deal Tracker', icon: ListChecks },
   { key: 'outreach', label: 'Outreach', icon: Mail },
   { key: 'inflow', label: 'In Bound', icon: Grid },
-  { key: 'intelligence', label: 'Intelligence', icon: Cpu },
+  { key: 'intelligence', label: 'AI Pluse', icon: Cpu },
 ];
 
 export function Dashboard({ onBack, onReconfigure, onLogout }) {
